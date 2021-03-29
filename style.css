@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    box-sizing: border-box;
+    background: linear-gradient(45deg, rgb(182, 182, 236), white, rgb(57, 136, 211));
+}
+
+.cases{
+    margin:100px;
+    padding:50px;
+    border:2px rgb(54, 55, 145) solid;
+    font-size: 20px;
+    color:rgb(24, 25, 116);
+    background-color:rgba(202, 207, 216, 0.5);
+}
+
+
+header>h1{
+    color:rgb(10, 6, 48);
+    font-size: 50px;
+    padding:100px 0px 0px 100px;
+}
+.cases>h4{
+    padding:10px;
+}
+
+.cases>div{
+    padding:10px;
+}
